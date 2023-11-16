@@ -5,6 +5,9 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
+
+    //Variables
+    
     #region Variables
 
     [Header("Bullet Statistics")]
